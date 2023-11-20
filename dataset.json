@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "descricao_problema": "Meu computador não inicializa. A tela fica preta.",
+      "solucao_esperada": "Verifique se todos os cabos estão conectados corretamente. Se o problema persistir, pode ser um problema de hardware."
+    },
+    {
+      "id": 2,
+      "descricao_problema": "Ao tentar abrir um programa, recebo uma mensagem de erro 'DLL não encontrada'.",
+      "solucao_esperada": "Reinstale o programa. Se o problema persistir, pode ser necessário reinstalar a DLL ausente ou reparar a instalação do sistema operacional."
+    },
+    {
+      "id": 3,
+      "descricao_problema": "Não consigo me conectar à rede Wi-Fi.",
+      "solucao_esperada": "Verifique se a senha da rede Wi-Fi está correta. Se o problema persistir, reinicie o roteador e tente novamente. Pode ser necessário verificar as configurações de segurança da rede."
+    },
+    {
+      "id": 4,
+      "descricao_problema": "Meu laptop está superaquecendo e desligando automaticamente.",
+      "solucao_esperada": "Limpe as saídas de ar do laptop para remover poeira e detritos. Se o problema persistir, considere a substituição da pasta térmica ou a consulta a um profissional para verificar a ventoinha."
+    },
+    {
+      "id": 5,
+      "descricao_problema": "O sistema operacional não reconhece meu dispositivo USB.",
+      "solucao_esperada": "Tente conectar o dispositivo USB a outra porta. Se o problema persistir, pode ser necessário verificar se há drivers atualizados para o dispositivo ou se o dispositivo está com defeito."
+    }
+]
